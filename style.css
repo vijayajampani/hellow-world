@@ -1,0 +1,88 @@
+﻿header{font-style:arial;
+background-color:#2a3354;
+text-align:center;
+width:80%;
+margine-left:auto;
+margine-right:auto;
+padding:2px;
+overflow:hidden;
+color:white;
+}
+section{
+width:79.06%;
+margine-left:auto;
+margine-right:auto;
+background-color:#d5e1ef;
+padding:5px;
+border-color:#2a3354;
+border-width:3px;
+border-style:solid;
+
+}
+footer{
+background-color:#2a3354;
+width:80%;
+padding:2px;
+color:white;
+}
+nav ul{list-style-type:none;
+overflow:hidden;
+background-color:#e8edf4;
+padding:2px;
+margin:0;
+overflow:hidden;
+}
+nav li{float:left;
+margin-left:40px;
+
+}
+nav li a{font-size:1em;
+padding:5px;
+display:block;
+
+}
+nav li a:link{
+color:green;
+
+}
+nav li a:visited{
+color:blue;
+}
+nav li a:hover{
+color:white;
+background-color:#3D12FF;
+}
+nav li a:active{
+color:red;
+background-color:#119D0A;
+}
+section p{
+text-align:justify;
+}
+.script{
+float:right;
+margin-right:200px;
+}
+html{margin-left:50px;
+margin-right:2px;
+}
+#login{margin-left:32px;
+}
+form{
+margin-left:15%;
+}
+div p{
+font-size:1em;
+text-align:center;
+}
+#list{
+margin-left:30%;
+}
+#list1{
+margin-left:10%;
+text-align:justify;
+margin-left:16%;
+}
+#list1 p{
+text-align:left;
+}
